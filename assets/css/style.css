@@ -58,7 +58,7 @@ h1, h2, h3, h4, h5, h6 {
 
 /*--------------------------------------------------------------
 # Preloader
---------------------------------------------------------------
+--------------------------------------------------------------*/
 #preloader {
   position: fixed;
   top: 0;
@@ -81,7 +81,7 @@ h1, h2, h3, h4, h5, h6 {
   border-bottom-color: rgb(0, 0, 0);
   /*
   border-top-color: #fff;
-  border-bottom-color: #fff;*\
+  border-bottom-color: #fff;*/
   border-radius: 50%;
   width: 60px;
   height: 60px;
@@ -106,7 +106,6 @@ h1, h2, h3, h4, h5, h6 {
     transform: rotate(360deg);
   }
 }
-*/
 
 /*--------------------------------------------------------------
 # Disable aos animation delay on mobile devices
