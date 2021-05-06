@@ -4,25 +4,7 @@
 * Author: BootstrapMade.com
 * License: https://bootstrapmade.com/license/
 */
-::-webkit-scrollbar {
-  width: 6px;
-  height: 6px;
-}
-::-webkit-scrollbar-thumb {
-  height: 50px;
-  background-color: rgb(105, 105, 105);
-  --outline:  1px solid rgba(0,0,0,0);
-  --outline-offset:  -1px;
-  border-width: 1px;
-  border-style: solid;
-  border-color: rgba(0, 0, 0, 0);
-  border-image: initial;
-  border-radius: 4px;
-}
 
-::-webkit-scrollbar-track-piece {
-  background-color: rgba(0, 0, 0, 0);
-}
 
 /*--------------------------------------------------------------
 # General
@@ -134,7 +116,27 @@ h1, h2, h3, h4, h5, h6 {
     transition-delay: 0 !important;
   }
 }
+/*Scrollbar*/
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+  background-color: #000000;
+}
+::-webkit-scrollbar-thumb {
+  height: 50px;
+  background-color: rgb(105, 105, 105);
+  --outline:  1px solid rgba(0,0,0,0);
+  --outline-offset:  -1px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgba(0, 0, 0, 0);
+  border-image: initial;
+  border-radius: 4px;
+}
 
+::-webkit-scrollbar-track-piece {
+  background-color: rgba(0, 0, 0, 0);
+}
 /*--------------------------------------------------------------
 # Header
 --------------------------------------------------------------*/
