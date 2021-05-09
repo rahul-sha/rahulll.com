@@ -228,7 +228,7 @@ h1, h2, h3, h4, h5, h6 {
 .nav-menu .active > a {
   color: #fff;
   background: #0563bb;
-  border: #00000000 1px solid;
+  border: #2e2e2e 1px solid;
 }
 
 .nav-menu a:hover, .nav-menu li:hover > a {
@@ -248,6 +248,16 @@ h1, h2, h3, h4, h5, h6 {
 
 .nav-menu a:hover span, .nav-menu li:hover > a span {
   display: block;
+}
+
+.nav-menu .photos {
+  background-color: rgb(41, 2, 14);
+}
+
+.nav-menu .photos:hover {
+  background-color: rgb(41, 2, 14);
+  background-image: url(/assets/img/photography.png);
+  background-size: cover;
 }
 
 /* Mobile Navigation */
@@ -413,6 +423,7 @@ section {
 
 .section-title p {
   margin-bottom: 0;
+  text-align: justify;
 }
 
 /*--------------------------------------------------------------
