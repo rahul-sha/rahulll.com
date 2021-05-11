@@ -260,6 +260,16 @@ h1, h2, h3, h4, h5, h6 {
   background-size: cover;
 }
 
+.nav-menu .nostalgia {
+  background-color: rgb(71, 71, 71);
+}
+
+.nav-menu .nostalgia:hover {
+  background-color: rgb(41, 2, 14);
+  background-image: url(/assets/img/nostalgia.png);
+  background-size: cover;
+}
+
 /* Mobile Navigation */
 .mobile-nav-toggle {
   position: fixed;
