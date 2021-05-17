@@ -33,15 +33,15 @@ Update Branch, to bring over fixes and features over to the published site.
   
   A dedicated place for my work and art.
 
-    <br />
-    <a href="https://github.com/rahul-sha/rahulll.com"><strong>Explore the docs »</strong></a>
-    <br />
-        <!--
-    <a href="https://github.com/rahul-sha/the-aperture">View Demo</a>
-    ·
-    <a href="https://github.com/rahul-sha/the-aperture/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/rahul-sha/the-aperture/issues">Request Feature</a>-->
+  <br />
+  <a href="https://github.com/rahul-sha/rahulll.com"><strong>Explore the docs »</strong></a>
+  <br />
+  <!--
+  <a href="https://github.com/rahul-sha/the-aperture">View Demo</a>
+  ·
+  <a href="https://github.com/rahul-sha/the-aperture/issues">Report Bug</a>
+  ·
+  <a href="https://github.com/rahul-sha/the-aperture/issues">Request Feature</a>-->
   </p>
 </p>
 
