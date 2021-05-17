@@ -30,7 +30,9 @@ Update Branch, to bring over fixes and features over to the published site.
   <h3 align="center">Rahulll.com</h3>
 
   <p align="center">
+  
     A dedicated place for my work and art.
+
     <br />
     <a href="https://github.com/rahul-sha/rahulll.com"><strong>Explore the docs »</strong></a>
     <br />
